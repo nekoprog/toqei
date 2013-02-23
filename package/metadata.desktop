@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=toqei
+Comment=QML Plasmoid Clock
+Encoding=UTF-8
+Icon=chronometer
+ServiceTypes=Plasma/Applet
+Type=Service
+X-KDE-PluginInfo-Author=Neko Prog
+X-KDE-PluginInfo-Category=Date and Time
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=nekoprog@otakux.org
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=org.kde.plasma.applet.toqei
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://otakux.org/
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
