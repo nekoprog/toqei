@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
  * Toqei is taken from the japanese word Tokei which means clock or watch.
  * The letter q in Toqei is taken from QML which is used in this plasmoid.
@@ -9,8 +8,8 @@ import QtQuick 1.1
 
 Item {
 	id: clock
-	property int minimumWidth: 402
-	property int minimumHeight: 351
+	property int minimumWidth: 412
+	property int minimumHeight: 356
 	
 	Component.onCompleted: {
 		plasmoid.setBackgroundHints( 0 )      
@@ -624,6 +623,3 @@ Item {
 	}
 
 }
-=======
-as
->>>>>>> a3070b977e386be8189672b446ffa8dadab4025a
