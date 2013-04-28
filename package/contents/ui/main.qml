@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * Toqei is taken from the japanese word Tokei which means clock or watch.
  * The letter q in Toqei is taken from QML which is used in this plasmoid.
@@ -623,3 +624,6 @@ Item {
 	}
 
 }
+=======
+as
+>>>>>>> a3070b977e386be8189672b446ffa8dadab4025a

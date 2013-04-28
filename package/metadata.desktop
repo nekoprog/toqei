@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Desktop Entry]
 Name=Toqei
 Comment=QML Plasmoid Clock
@@ -16,3 +17,6 @@ X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=http://otakux.org/
 X-Plasma-API=declarativeappletscript
 X-Plasma-MainScript=ui/main.qml
+=======
+ad
+>>>>>>> a3070b977e386be8189672b446ffa8dadab4025a
