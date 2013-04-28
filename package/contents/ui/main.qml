@@ -3,6 +3,7 @@
  * The letter q in Toqei is taken from QML which is used in this plasmoid.
  */
 
+<<<<<<< HEAD
 import QtQuick 1.1
 //import org.kde.plasma.core 0.1 as PlasmaCore
 
@@ -14,6 +15,14 @@ Item {
 	Component.onCompleted: {
 		plasmoid.setBackgroundHints( 0 )      
 	}
+=======
+import QtQuick 1.0
+
+Item {
+	id: clock
+	width: 412
+	height: 356
+>>>>>>> 83a768c9fcdca4ee9cc2b14c5aa52bb1084c3c5a
 	
 	property string currDay
 	property string currDate
@@ -569,7 +578,11 @@ Item {
 		id: content
 		width: 250
 		height: 130
+<<<<<<< HEAD
 		anchors.bottomMargin: 50
+=======
+		anchors.bottomMargin: 56
+>>>>>>> 83a768c9fcdca4ee9cc2b14c5aa52bb1084c3c5a
 		anchors.bottom: clock.bottom
 		anchors.horizontalCenter: clock.horizontalCenter
 		
