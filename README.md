@@ -7,6 +7,7 @@ Download Toqei.plasmoid then run 'plasmapkg -i Toqei.plasmoid' on Konsole to ins
 
 
 Changelog
+
 V0.2:
   Repairs metadata.desktop
 
