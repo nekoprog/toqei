@@ -3,6 +3,10 @@ toqei
 
 QML Plasmoid Clock
 
+Download Toqei.plasmoid then run 'plasmapkg -i Toqei.plasmoid' on Konsole to install
+
+
+Changelog
 V0.2:
   Repairs metadata.desktop
 
